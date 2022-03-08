@@ -1,4 +1,4 @@
-# Arolla Academy - Quote picker api
+# Training docker - Quote picker api
 
 This api return quote from fortune when asked
 
